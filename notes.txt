@@ -1,0 +1,2 @@
+ backend  => uvicorn app.main:app --reload --port 8585
+ frontend => npm run dev 
